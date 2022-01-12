@@ -1,6 +1,6 @@
 {
   "name": "mlquick-sort/mlquick-sort",
-  "description": "php code",
+  "description": "php 快速排序",
   "authors": [
     {
       "name": "wml",
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "MLQuickSort\\": "src/"
+      "QuickSort\\": "src/"
     }
   },
   "license": "MIT"
