@@ -8,9 +8,7 @@
     }
   ],
   "minimum-stability": "dev",
-  "require": {
-    "php": ">=5.6.0"
-  },
+  "require": {},
   "autoload": {
     "psr-4": {
       "QuickSort\\": "src/"
