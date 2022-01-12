@@ -1,4 +1,8 @@
 ```
+composer require mlquick-sort/mlquick-sort:dev-main
+```
+
+```
 //参数
 $arr = [
     ['id' => 1,'order' => 1],
