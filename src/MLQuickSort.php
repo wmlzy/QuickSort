@@ -7,7 +7,7 @@
  * Class QuickSort
  */
 
-namespace QuickSort;
+namespace QuickSort\MLQuickSort;
 class MLQuickSort
 {
     /**
